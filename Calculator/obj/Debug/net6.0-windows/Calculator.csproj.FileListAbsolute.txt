@@ -1,0 +1,17 @@
+D:\Ahmet\oop\Calculator\bin\Debug\net6.0-windows\Calculator.exe
+D:\Ahmet\oop\Calculator\bin\Debug\net6.0-windows\Calculator.deps.json
+D:\Ahmet\oop\Calculator\bin\Debug\net6.0-windows\Calculator.runtimeconfig.json
+D:\Ahmet\oop\Calculator\bin\Debug\net6.0-windows\Calculator.dll
+D:\Ahmet\oop\Calculator\bin\Debug\net6.0-windows\Calculator.pdb
+D:\Ahmet\oop\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.AssemblyReference.cache
+D:\Ahmet\oop\Calculator\obj\Debug\net6.0-windows\Calculator.Form1.resources
+D:\Ahmet\oop\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.GenerateResource.cache
+D:\Ahmet\oop\Calculator\obj\Debug\net6.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ahmet\oop\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\Ahmet\oop\Calculator\obj\Debug\net6.0-windows\Calculator.AssemblyInfo.cs
+D:\Ahmet\oop\Calculator\obj\Debug\net6.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\Ahmet\oop\Calculator\obj\Debug\net6.0-windows\Calculator.dll
+D:\Ahmet\oop\Calculator\obj\Debug\net6.0-windows\refint\Calculator.dll
+D:\Ahmet\oop\Calculator\obj\Debug\net6.0-windows\Calculator.pdb
+D:\Ahmet\oop\Calculator\obj\Debug\net6.0-windows\Calculator.genruntimeconfig.cache
+D:\Ahmet\oop\Calculator\obj\Debug\net6.0-windows\ref\Calculator.dll
